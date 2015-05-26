@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sensores en Android</string>
+    <string name="hello_world"></string>
+    <string name="INICIAR">INICIAR</string>
+    <string name="DETENER">DETENER</string>
+    <string name="LIMPIAR">LIMPIAR</string>
+
+
+</resources>
