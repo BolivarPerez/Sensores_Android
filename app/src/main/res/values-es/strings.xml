@@ -9,12 +9,9 @@
 
     <string name="PROXY">PROXIMIDAD</string>
     <string name="ACE">ACELEROMETRO</string>
-    <string name="MAG">MAGNETIC</string>
+    <string name="MAG">MAGNETICO</string>
     <string name="ORI">ORIENTACION</string>
 
     <string name="sensor">SENSORES SOPORTADOS POR TU MOVIL:</string>
-
-
-
 
 </resources>

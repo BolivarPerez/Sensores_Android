@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sensors on Android</string>
+    <string name="hello_world"></string>
+    <string name="INICIAR">STAR</string>
+    <string name="DETENER">STOP</string>
+    <string name="LIMPIAR">CLEAR</string>
+
+    <string name="PROXY">PROXIMITY</string>
+    <string name="ACE">ACCELEROMETER</string>
+    <string name="MAG">MAGNETIC</string>
+    <string name="ORI">ORIENTATION</string>
+
+    <string name="sensor">SENSORS SUPPORTED BY YOUR MOBILE:</string>
+</resources>
